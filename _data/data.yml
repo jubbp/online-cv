@@ -56,7 +56,7 @@ career-profile:
     summary: |
       From an early age I have been interested in technology and this has lead to a wide ranging
       career in IT and related industries. My major interest is in software development and enjoy the
-      process of turning a customers needs into a working software system.
+      process of turning a customers needs into a working software solution.
 
       I am a continual learner and have continued to increase me skills as required over the years. 
       Recently I have built a proficiency in iOS programming using SWIFT and data analysis using tools including Power BI. 
@@ -69,16 +69,10 @@ education:
     title: Education
     info:
       - degree: Associate Diploma of Applied Science(Computing) 
-        Insitution: University of London
+        university: SEM College of TAFE
         time: 1991-1993
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          
       
 experiences:
     title: Experiences
